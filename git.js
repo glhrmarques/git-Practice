@@ -1,2 +1,2 @@
-const fruits = ['pineaple', 'apple', 'watermelon'];
+const fruits = ['pineaple', 'apple', 'watermelon', 'passion fruit'];
 
